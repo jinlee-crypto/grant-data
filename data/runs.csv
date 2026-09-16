@@ -5,3 +5,9 @@ run_at,source,n_new,n_updated,error
 2026-09-15T12:07:13,KHIDI,0,0,"HTTPSConnectionPool(host='www.khidi.or.kr', port=443): Max retries exceeded with url: /board?menuId=MENU01108&pageNum=1&rowCnt=10 (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Re"
 2026-09-15T12:08:25,NECA,20,0,
 2026-09-15T12:08:51,환경부(KEITI),20,0,
+2026-09-16T00:03:59,IRIS,0,47,
+2026-09-16T00:05:03,한국연구재단,0,61,
+2026-09-16T00:05:29,HT Dream,17,12,
+2026-09-16T00:06:22,KHIDI,21,0,
+2026-09-16T00:06:46,NECA,5,15,
+2026-09-16T00:06:56,환경부(KEITI),6,14,
