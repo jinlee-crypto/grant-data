@@ -209,3 +209,9 @@ run_at,source,n_new,n_updated,error
 2026-10-05T11:08:13,KHIDI,0,24,
 2026-10-05T11:10:31,NECA,0,0,"HTTPSConnectionPool(host='www.neca.re.kr', port=443): Max retries exceeded with url: /lay1/bbs/S1T12C49/A/12/list.do?cpage=1 (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.neca.re.kr', por"
 2026-10-05T11:10:42,환경부(KEITI),6,14,
+2026-10-06T02:08:55,IRIS,3,42,
+2026-10-06T02:09:23,한국연구재단,1,39,
+2026-10-06T02:09:57,HT Dream,22,8,
+2026-10-06T02:10:02,KHIDI,0,24,
+2026-10-06T02:10:42,NECA,6,15,
+2026-10-06T02:10:52,환경부(KEITI),6,14,
